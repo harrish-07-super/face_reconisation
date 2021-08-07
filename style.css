@@ -1,0 +1,19 @@
+body{
+    
+    background-image: linear-gradient(to right bottom, #f52828, #f328c7, #751bbe, hsl(110, 75%, 54%), #eef12f);
+    color: azure;
+}
+.heading{
+    width: 80%;
+    font-size: 20px;
+
+}
+.objects,#result_object,#result_accuracy{
+    color: rgb(253, 14, 14);
+    font-size: 18px;
+}
+#camera{
+border: 2px solid rgb(253, 114, 253);
+width: 350px;
+height: 350px;
+}
